@@ -1,5 +1,9 @@
 # Afkortingen
 
+_Afkortingen als verwijzing naar Martin Heideggers werken en de corresponderende *Gesamtausgabe* delen._
+
+Er wordt niet voorgeschreven naar welke editie verwezen wordt, maar wel welke afkorting gebruikt wordt voor het werk.
+
 | Sigel | Werk                                                              | GA |
 | ----------------- | -------------------------------------------------------------------- | ---------------- |
 | SZ                | Sein und Zeit                                                        | GA 2           |
@@ -34,7 +38,7 @@
 | TK                | Die Technik und die Kehre                                            |                  |
 | UK                | Der Ursprung des Kunstwerkes                                         |                  |
 | F                 | Der Feldweg                                                          | in: GA 13    |
-| EG                | Zur Erörterung der Gelassenheit                                      | in: GA 13    |
+| ZEG               | Zur Erörterung der Gelassenheit                                      | in: GA 13    |
 | WM                | Was ist Metaphysik?                                                  | in: GA 9     |
 | WBPh              | Vom Wesen und Begriff der Φὐσις, Aristoteles, Physik B, 1            | in: GA 9     |
 | Hum               | Brief über den “Humanismus”                                          | in: GA 9         |
@@ -61,7 +65,7 @@ Een afkorting, *abbreviation* of *Sigel* voldoet aan de volgende eisen (op volgo
 2. Ze zijn uniek.
 3. Ze zijn zo kort mogelijk.
 4. Ze bevatten geen spaties of andere leestekens. Uitzondering hierop vormen de Nietzsche banden die in twee delen uitgegeven zijn.
-5. Lidwoorden worden niet weergegeven.
+5. Lidwoorden en voegwoorden worden niet weergegeven.
 6. Hoofdletters staan in een afkorting voor *verschillende woorden* in de titel.
 7. Kleine letters worden toegevoegd om een andere letter uit het woord weergegeven door het voorgaande kapitaal, of een ander woord dat onderdeel is van de titel weer te geven.
 8. In het geval van dubbele goede afkortingen krijgt het *eerst uitgebrachte* werk voorrang.
@@ -71,5 +75,5 @@ Een afkorting, *abbreviation* of *Sigel* voldoet aan de volgende eisen (op volgo
 
 ### Uitwerking van de regels
 
-- Regel 4 en 5 samen schrijven dus voor dat ‘HW’ nooit een afkorting kan zijn voor ‘Holzwege’. ‘Holzwege’ wordt ofwel afgekort met ‘H’, ofwel met ‘Ho’ of ‘Hw’.
+- Regel 6 en 7 samen schrijven dus voor dat ‘HW’ nooit een afkorting kan zijn voor ‘Holzwege’. ‘Holzwege’ wordt ofwel afgekort met ‘H’, ofwel met ‘Ho’ of ‘Hw’.
 - Regel 10 schrijft dus voor dat de afkortingen ‘KGW’, ‘KSA’, ‘GA’, ‘DK’ niet aan werken toegekend kunnen worden.
