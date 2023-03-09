@@ -77,3 +77,9 @@ Een afkorting, *abbreviation* of *Sigel* voldoet aan de volgende eisen (op volgo
 
 - Regel 6 en 7 samen schrijven dus voor dat ‘HW’ nooit een afkorting kan zijn voor ‘Holzwege’. ‘Holzwege’ wordt ofwel afgekort met ‘H’, ofwel met ‘Ho’ of ‘Hw’.
 - Regel 10 schrijft dus voor dat de afkortingen ‘KGW’, ‘KSA’, ‘GA’, ‘DK’ niet aan werken toegekend kunnen worden.
+
+## Verwijzingen
+
+Verwijzingen zou ik als volgt geven: ‘Heidegger, ZS 38’ wanneer het gewenst is om de auteur te vermelden en anders ‘ZS 38’.
+
+In principe heeft verwijzen naar de paginanummers van de *Gesamtausgabe* de voorkeur. Uitzondering hier op vormen de werken waar van ook de originele paginanummers in de *Gesamtausgabe* uitgave zijn opgenomen, daar kan een vrije keuze gemaakt worden.
