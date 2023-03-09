@@ -1,6 +1,6 @@
 # Heidegger Sigel
 
-**Sigel** *n* (genitive Sigels, plural Sigel)
+**Sigel** *n* (genitive Sigels, plural Sigel)  
 : (linguistics, stenography) siglum, a conventional abbreviation for a word or words[^1]
 
 Deze vergaarplaats \[*repository*\] bevat gegevens en hulpmiddelen om te werken met de afkortingen naar Heideggers werken.
