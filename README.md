@@ -10,3 +10,24 @@ Deze vergaarplaats \[*repository*\] bevat gegevens en hulpmiddelen om te werken 
 ## Afkortingen
 
 [Zie hier mijn voorgestelde afkortingen.](Sigel.md)
+
+## Database van verschillende verwijzingen
+
+Om in kaart te brengen wat de verschillende afkortingen zijn die gebruikt worden voor werken leg ik een database aan. Deze database bevat verschillende onderdelen:
+
+- Een bibliografie met werken die naar Heideggers werken verwijzen.
+- Een bibliografie van verschillende uitgaven van Heideggers werken. Which is an export of https://www.zotero.org/groups/4982216/martin_heidegger_gesamtausgabe/
+- Een database die een verbinding legt tussen de twee, met de gebruikte afkortingen.
+
+### Datamodel
+
+Het datamodel de eerste twee is CSL YAML. De laatste database volgt het volgende datamodel:
+```yaml
+citekey_sec_literature:
+  abbreviations:
+    - citekey_pr_literature: abbrev.
+```
+
+### Citekeys
+
+De citekeys voor de verschillende uitgaven moeten uniek zijn en worden aan de hand van de volgende formule gevormd: `auth.lower + shorttitle(3,3) + year` (dit is de standaard voor Zotero's ‘Better BibTeX’ plugin.)

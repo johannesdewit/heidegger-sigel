@@ -1,0 +1,105 @@
+---
+references:
+- id: oudemansHeideggersFilosofieVan1985
+  author:
+    - family: Oudemans
+      given: Th. C. W.
+  citation-key: oudemansHeideggersFilosofieVan1985
+  container-title: Tijdschrift voor Filosofie
+  ISSN: 1370-575X
+  issued:
+    - year: 1985
+      month: 6
+      day: 1
+  language: nl
+  page: 214-257
+  title: Heideggers filosofie van de levende natuur
+  type: article-journal
+  URL: >-
+    https://login.ezproxy.leidenuniv.nl:2443/login?URL=http://search.ebscohost.com/login.aspx?direct=true&db=pif&AN=PHL1135449&site=ehost-live
+  volume: '47'
+
+- id: oudemansHeideggersFormeelAanwijzende1988
+  author:
+    - family: Oudemans
+      given: Th. C. W
+  citation-key: oudemansHeideggersFormeelAanwijzende1988
+  container-title: Algemeen Nederlands Tijdschrift voor Wijsbegeerte
+  issue: '80'
+  issued:
+    - year: 1988
+      month: 1
+      day: 1
+  language: nl
+  page: 18-41
+  title: Heideggers formeel aanwijzende hermeneutica
+  type: article-journal
+  volume: '1'
+
+- id: oudemansHeideggersLogischeUntersuchungen1990
+  author:
+    - family: Oudemans
+      given: Th. C. W.
+  citation-key: oudemansHeideggersLogischeUntersuchungen1990
+  container-title: Heidegger Studies
+  ISSN: 08854580, 21539170
+  issued:
+    - year: 1990
+      month: 4
+      day: 2
+  language: ger
+  page: 85-105
+  publisher: Duncker & Humblot GmbH
+  title: Heideggers „logische Untersuchungen“
+  type: article-journal
+  URL: http://www.jstor.org/stable/45010849
+  volume: '6'
+
+- id: vandijkGrundbegriffeMetaphysikZur1991
+  author:
+    - family: Dijk
+      given: R J A
+      non-dropping-particle: van
+  citation-key: vandijkGrundbegriffeMetaphysikZur1991
+  container-title: Heidegger Studies
+  ISSN: 08854580, 21539170
+  issued:
+    - year: 1991
+      month: 4
+      day: 2
+  language: ger
+  page: 89-109
+  publisher: Duncker & Humblot GmbH
+  title: >-
+    Grundbegriffe der Metaphysik: Zur formalanzeigenden Struktur der
+    philosophischen Begriffe bei Heidegger
+  type: article-journal
+  URL: http://www.jstor.org/stable/45010863
+  volume: '7'
+
+- id: visserNietzscheHeideggerEen2023
+  abstract: >-
+    Analyse van de interpretatie van de Duitse filosoof Martin Heidegger
+    (1889-1976) van het werk van de Duitse filosoof Friedrich Nietzsche
+    (1844-1900)
+  author:
+    - family: Visser
+      given: Gerard
+  citation-key: visserNietzscheHeideggerEen2023
+  edition: Licht herziene uitgave
+  event-place: Amsterdam
+  ISBN: 978-90-244-4856-2
+  issued:
+    - year: 2023
+  language: nl-NL
+  note: 'OrginalPlace: Nijmegen'
+  number-of-pages: '487'
+  original-date:
+    - year: 1989
+  original-publisher: SUN
+  publisher: Boom
+  publisher-place: Amsterdam
+  title: 'Nietzsche & Heidegger: een confrontatie'
+  title-short: Nietzsche & Heidegger
+  type: book
+...

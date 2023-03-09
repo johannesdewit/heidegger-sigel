@@ -1,0 +1,626 @@
+---
+references:
+- id: heideggerBeitraegeZurPhilosophie2003
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerBeitraegeZurPhilosophie2003
+  collection-number: band 65
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: 3., unveränd. Aufl
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-03282-3 978-3-465-03281-6
+  issued:
+    - year: 2003
+  language: de-DE
+  number-of-pages: xvii, 521
+  publisher: Klostermann
+  publisher-place: Frankfurt am Main
+  title: 'Beiträge zur Philosophie: (vom Ereignis)'
+  title-short: GA 65
+  type: book
+
+- id: heideggerGA1
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA1
+  collection-number: band 1
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: Zweite Auflage
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-00034-1
+  issued:
+    - year: 2018
+  language: de-DE
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Frühe Schriften
+  title-short: GA 1
+  type: book
+
+- id: heideggerGA10
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA10
+  collection-number: band 10
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Jaeger
+      given: Petra
+  event-place: Frankfurt am Main
+  issued:
+    - year: 1997
+  language: de-DE
+  number-of-pages: vii, 192
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Der Satz vom Grund
+  title-short: GA 10
+  type: book
+
+- id: heideggerGA11
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA11
+  collection-number: band 11
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  issued:
+    - year: 2006
+  language: de-DE
+  number-of-pages: '167'
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Identität und Differenz
+  title-short: GA 11
+  type: book
+
+- id: heideggerGA12
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA12
+  collection-number: Band 12
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: Zweite Auflage
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-00079-2
+  issued:
+    - year: 2018
+  language: de-DE
+  number-of-pages: '262'
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Unterwegs zur Sprache
+  title-short: GA 12
+  type: book
+
+- id: heideggerGA13
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA13
+  collection-number: band 13
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Heidegger
+      given: Hermann
+  event-place: Frankfurt am Main
+  issued:
+    - year: 1983
+  language: de-DE
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Aus der Erfahrung des Denkens
+  title-short: GA 13
+  type: book
+
+- id: heideggerGA14
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA14
+  collection-number: band 14
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  issued:
+    - year: 2007
+  language: de-DE
+  number-of-pages: '155'
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Zur Sache des Denkens
+  title-short: GA 14
+  type: book
+
+- id: heideggerGA15
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA15
+  collection-number: band 15
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: 2., durchges. Aufl
+  editor:
+    - family: Ochwadt
+      given: Curd
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-03379-0
+  issued:
+    - year: 2005
+  language: de-DE
+  number-of-pages: '447'
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Seminare
+  title-short: GA 15
+  type: book
+
+- id: heideggerGA16
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA16
+  collection-number: band 16
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Heidegger
+      given: Hermann
+  event-place: Frankfurt am Main
+  issued:
+    - year: 2000
+  language: de-DE
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: 'Reden und andere Zeugnisse eines Lebensweg: 1910 - 1976'
+  title-short: GA 16
+  type: book
+
+- id: heideggerGA17
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA17
+  collection-number: band 17
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: 2., unveränd. Aufl
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-03508-4 978-3-465-03507-7
+  issued:
+    - year: 1919
+  language: de-DE
+  number-of-pages: '332'
+  publisher: Klostermann
+  publisher-place: Frankfurt am Main
+  title: Einführung in die phänomenologische Forschung
+  title-short: GA 17
+  type: book
+
+- id: heideggerGA18
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA18
+  collection-number: band 18
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Michalski
+      given: Mark
+  event-place: Frankfurt am Main
+  ISBN: 3-465-03162-8
+  issued:
+    - year: 2002
+  language: de-DE
+  note: Marburger Vorlesung Sommersemester 1924
+  number-of-pages: XIII, 418
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Grundbegriffe der Aristotelischen Philosophie
+  title-short: GA 18
+  type: book
+
+- id: heideggerGA19
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA19
+  collection-number: band 19
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Schüßler
+      given: Ingeborg
+  event-place: Frankfurt am Main
+  issued:
+    - year: 1992
+  language: de-DE
+  number-of-pages: xxxi, 668
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: 'Platon: Sophistes'
+  title-short: GA 19
+  type: book
+
+- id: heideggerGA2
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA2
+  collection-number: band 2
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: Zweite Auflage
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-00051-8
+  issued:
+    - year: 2018
+  language: de-DE
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Sein und Zeit
+  title-short: GA 2
+  type: book
+
+- id: heideggerGA20
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA20
+  collection-number: band 20
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Jaeger
+      given: Petra
+  event-place: Frankfurt am Main
+  issued:
+    - year: 1979
+  language: de-DE
+  number-of-pages: xii, 447
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Prolegomena zur Geschichte des Zeitbegriffs
+  title-short: GA 20
+  type: book
+
+- id: heideggerGA22
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA22
+  collection-number: band 22
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Blust
+      given: Franz-Karl
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-03346-2
+  issued:
+    - year: 1993
+  language: de-DE
+  note: Marburger Vorlesung Sommersemester 1926
+  number-of-pages: XIII, 343
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Die Grundbegriffe der antiken Philosophie
+  title-short: GA 22
+  type: book
+
+- id: heideggerGA24
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA24
+  collection-number: band 24
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  issued:
+    - year: 1975
+  language: de-DE
+  number-of-pages: x, 475
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Die Grundprobleme der Phänomenologie
+  title-short: GA 24
+  type: book
+
+- id: heideggerGA27
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA27
+  collection-number: band 27
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Saame
+      given: Otto
+    - family: Saame-Speidel
+      given: Ina
+  event-place: Frankfurt am Main
+  ISBN: 3-465-02893-7
+  issued:
+    - year: 1996
+  language: de-DE
+  note: Freiburger Vorlesung Wintersemester 1928/29
+  number-of-pages: X, 404
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Einleitung in die Philosophie
+  title-short: GA 27
+  type: book
+
+- id: heideggerGA29/30
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA29/30
+  collection-number: band 29/30
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-04093-4
+  issued:
+    - year: 1983
+  language: de-DE
+  number-of-pages: xix, 544 p.
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: 'Die Grundbegriffe der Metaphysik: Welt – Endlichkeit – Einsamkeit'
+  title-short: GA 29/30
+  type: book
+
+- id: heideggerGA3
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA3
+  collection-number: band 3
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: 2. Aufl
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-03677-7
+  issued:
+    - year: 1910
+  language: de-DE
+  number-of-pages: '317'
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Kant und das Problem der Metaphysik
+  title-short: GA 3
+  type: book
+
+- id: heideggerGA40
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA40
+  collection-number: band 40
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: 2., durchgesehene Auflage
+  editor:
+    - family: Jaeger
+      given: Petra
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-01300-6
+  issued:
+    - year: 2020
+  language: de-DE
+  number-of-pages: x, 234
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Einführung in die Metaphysik
+  title-short: GA 40
+  type: book
+
+- id: heideggerGA41
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA41
+  collection-number: band 41
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Jaeger
+      given: Petra
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-01627-4
+  issued:
+    - year: 1984
+  language: de-DE
+  note: Freiburger Vorlesung Wintersem. 1935/36
+  number-of-pages: viii, 254
+  publisher: Klostermann
+  publisher-place: Frankfurt am Main
+  title: 'Die Frage nach dem Ding: zu Kants Lehre von den transzendentalen Grundsätzen'
+  title-short: GA 41
+  type: book
+
+- id: heideggerGA42
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA42
+  collection-number: band 42
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Schüßler
+      given: Ingrid
+  event-place: Frankfurt am Main
+  issued:
+    - year: 1988
+  language: de-DE
+  number-of-pages: '289'
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: 'Schelling: Vom Wesen der menschlichen Freiheit (1809)'
+  title-short: GA 42
+  type: book
+
+- id: heideggerGA5
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA5
+  collection-number: band 5
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: 2., unveränd. Aufl
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-03237-3
+  issued:
+    - year: 2003
+  language: de-DE
+  number-of-pages: '382'
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Holzwege
+  title-short: GA 5
+  type: book
+
+- id: heideggerGA55
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA55
+  collection-number: band 55
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Frings
+      given: Manfred S.
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-02648-8
+  issued:
+    - year: 1979
+  language: de-DE
+  number-of-pages: XII, 406
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Heraklit
+  title-short: GA 55
+  type: book
+
+- id: heideggerGA6.1
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA6.1
+  collection-number: Band 6.1
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: Text der durchgesehenen Einzelausgabe
+  editor:
+    - family: Schillbach
+      given: Brigitte
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-02921-1
+  issued:
+    - year: 1996
+  language: de-DE
+  note: 'OriginalPlace: Pfullingen'
+  original-date:
+    - year: 1961
+  original-publisher: Verlag Günther Neske
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: 'Nietzsche: Erster Band'
+  title-short: GA 6.1
+  type: book
+
+- id: heideggerGA6.2
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA6.2
+  collection-number: Band 6.2
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: Text der durchgesehenen Einzelausgabe
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-02928-1
+  issued:
+    - year: 1996
+  language: de-DE
+  note: 'OriginalPlace: Pfullingen'
+  original-date:
+    - year: 1961
+  original-publisher: Verlag Günther Neske
+  publisher: Klostermann
+  publisher-place: Frankfurt am Main
+  title: 'Nietzsche: Zweiter Band'
+  title-short: GA 6.2
+  type: book
+
+- id: heideggerGA8
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA8
+  collection-number: band 8
+  collection-title: Martin Heidegger Gesamtausgabe
+  editor:
+    - family: Coriando
+      given: Paola-Ludovica
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-03199-4 978-3-465-03198-7
+  issued:
+    - year: 2002
+  language: de-DE
+  number-of-pages: '271'
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Was heisst Denken?
+  title-short: GA 8
+  type: book
+
+- id: heideggerGA9
+  author:
+    - family: Heidegger
+      given: Martin
+  citation-key: heideggerGA9
+  collection-number: band 9
+  collection-title: Martin Heidegger Gesamtausgabe
+  edition: 3. Aufl
+  editor:
+    - family: Herrmann
+      given: Friedrich-Wilhelm
+      dropping-particle: von
+  event-place: Frankfurt am Main
+  ISBN: 978-3-465-03372-1
+  issued:
+    - year: 2004
+  language: de-DE
+  number-of-pages: x, 487
+  publisher: Vittorio Klostermann
+  publisher-place: Frankfurt am Main
+  title: Wegmarken
+  title-short: GA 9
+  type: book
+...

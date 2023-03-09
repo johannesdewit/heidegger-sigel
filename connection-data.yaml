@@ -1,0 +1,53 @@
+---
+heideggerGA2:
+  contains:
+    - id: heideggerSeinUndZeit1976
+      includes-page-nrs: True
+      comment: originele paginanummers in de kantlijn. Correspondeert met alle uitgaven van Sein und Zeit (i.i.g. tot aan 1976)
+
+heideggerGA5:
+  is:
+    - id: heideggerHolzwege2015
+      comment: uitgaves sinds de zevende druk (1994) zijn gelijk aan GA 5.
+
+heideggerGA6.1:
+  contains:
+    - id: heideggerNietzscheBand1961
+      includes-page-nrs: False
+
+heideggerGA6.2:
+  contains:
+    - id: heideggerNietzscheBand1961a
+      includes-page-nrs: False
+
+heideggerGA9:
+  contains:
+    - id: heideggerWegmarken1967
+      includes-page-nrs: True
+      comment: originele paginanummers in de kantlijn
+  is:
+    - id: heideggerWegmarken1996
+      comment: gelijk aan de tweede, herziene uitgaven van GA 9 
+
+heideggerGA14:
+  contains:
+    - id: heideggerZurSacheDenkens1969
+      includes-page-nrs: False
+
+heideggerGA29/30:
+  is:
+    - id: heideggerGrundbegriffeMetaphysikWelt2018
+      comment: gelijk qua woord en paginering.
+
+heideggerGA40:
+  contains:
+    - id: heideggerEinfuehrungMetaphysik1976
+      includes-page-nrs: True
+      comment: originele paginanummers in de kantlijn.
+
+heideggerGA41:
+  contains:
+    - id: heideggerFrageNachDing1962
+      includes-page-nrs: True
+      comment: originele paginanummers in de kantlijn.
+---
