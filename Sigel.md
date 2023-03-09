@@ -1,6 +1,6 @@
 # Afkortingen
 
-| Gekozen afkorting | Werk                                                              | GA |
+| Sigel | Werk                                                              | GA |
 | ----------------- | -------------------------------------------------------------------- | ---------------- |
 | SZ                | Sein und Zeit                                                        | GA 2           |
 | KPM               | Kant und das Problem der Metaphysik                                  | GA 3             |

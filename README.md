@@ -1,12 +1,12 @@
 # Heidegger Sigel
 
 **Sigel** *n* (genitive Sigels, plural Sigel)
-: (linguistics, stenography) siglum, a conventional abbreviation for a word or words 
-
-This repository is to contain both data and tools for working with the abbreviations that refer to Heidegger's works.
+: (linguistics, stenography) siglum, a conventional abbreviation for a word or words[^1]
 
 Deze vergaarplaats \[*repository*\] bevat gegevens en hulpmiddelen om te werken met de afkortingen naar Heideggers werken.
 
-## De afkortingen
+[^1]: Wiktionary contributors, 'Sigel', Wiktionary, The Free Dictionary, 18 February 2023, 06:29 UTC, <https://en.wiktionary.org/w/index.php?title=Sigel&oldid=71322295> [accessed 9 March 2023] 
 
-[Sigel.md](Zie hier de afkortingen en hun onderbouwing.)
+## Afkortingen
+
+[Sigel.md](Zie hier mijn voorgestelde afkortingen.)
