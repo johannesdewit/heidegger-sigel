@@ -9,4 +9,4 @@ Deze vergaarplaats \[*repository*\] bevat gegevens en hulpmiddelen om te werken 
 
 ## Afkortingen
 
-[Sigel.md](Zie hier mijn voorgestelde afkortingen.)
+[Zie hier mijn voorgestelde afkortingen.](Sigel.md)
