@@ -46,7 +46,9 @@ Er wordt niet voorgeschreven naar welke editie verwezen wordt, maar wel welke af
 | WD                | Wozu Dichter?                                                        | in: GA 5         |
 | ZW                | Die Zeit des Weltbildes                                              | in: GA 5         |
 | Vorarb29/30       | Unbenutzte Vorarbeiten zur Vorlesung vom Wintersemester 1929/30      |                  |
-| PT | Phänomenologie und Theologie | in GA 9 |
+| PT | Phänomenologie und Theologie | in: GA 9 |
+| JPHZ | Johann Peter Hebel, Zähringer rede | in: GA 16 |
+| JPHG | Johann Peter Hebel, Göppinger rede | in: GA 16 |
 
 ## De regels
 Afkortingen worden gebruikt om (één van) de volgende redenen:
@@ -82,4 +84,4 @@ Een afkorting, *abbreviation* of *Sigel* voldoet aan de volgende eisen (op volgo
 
 Verwijzingen zou ik als volgt geven: ‘Heidegger, ZS 38’ wanneer het gewenst is om de auteur te vermelden en anders ‘ZS 38’.
 
-In principe heeft verwijzen naar de paginanummers van de *Gesamtausgabe* de voorkeur. Uitzondering hier op vormen de werken waar van ook de originele paginanummers in de *Gesamtausgabe* uitgave zijn opgenomen, daar kan een vrije keuze gemaakt worden.
+In principe heeft verwijzen naar de paginanummers van de *Gesamtausgabe* de voorkeur. Uitzondering hier op vormen de werken waar van ook de originele paginanummers in de *Gesamtausgabe* uitgave zijn opgenomen, daar kan een vrije keuze gemaakt worden. Vermeld bij een eerste verwijzing welke paginering je aanhoudt.
